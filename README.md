@@ -1,6 +1,6 @@
 ### Fala pessoal! 👋
 
-🌱 I’m currently learning React, Styled Components and TypeScript.  
+🌱 I’m currently learning React, NextJS and TypeScript.
 💬 Ask me about some knowledge and I'll tell you...  
    *"We are what we do repeatedly. Excellence, therefore, is not an act but a habit." **Aristotle**.:classical_building:*  
    
