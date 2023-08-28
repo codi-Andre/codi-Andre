@@ -11,7 +11,7 @@
 
 <div align="left">
 
-### :mortar_board: My programming tools, so far
+### 🎓 My programming tools, so far
 
 <img alt="JavaScript" src="./assets/javascript_logo.svg" title="JavaScript" width="32px">
 <img alt="HTML" src="./assets/html_logo.svg"  title="HTML" width="32px">
@@ -27,7 +27,7 @@
 
 ---
 
-"We are what we do repeatedly. Excellence, therefore, is not an act but a habit." **Aristotle**.:classical*building:*
+"We are what we do repeatedly. Excellence, therefore, is not an act but a habit." **Aristotle**. 🏛️
 
 ---
 
