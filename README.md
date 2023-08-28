@@ -16,7 +16,7 @@
 <img alt="JavaScript" src="./assets/javascript_logo.svg" title="JavaScript" width="32px">
 <img alt="HTML" src="./assets/html_logo.svg"  title="HTML" width="32px">
 <img alt="CSS" src="./assets/css_logo.svg"  title="CSS" width="32px">
-<img alt="Prettier" src="./assets/prettier_logo.svg" title="Prettier" width="32px">
+<img alt="Prettier" src="./assets/prettier_logo.png" title="Prettier" width="32px">
 <img alt="Git" src="./assets/git_logo.svg" title="Git" width="32px">
 <img alt="TypeScript" src="./assets/typescript_logo.svg" title="TypeScript" width="32px">
 <img alt="ReactJS" src="./assets/react_logo.svg"  title="ReactJS" width="32px">
@@ -25,7 +25,11 @@
 
 </div>
 
+---
+
 "We are what we do repeatedly. Excellence, therefore, is not an act but a habit." **Aristotle**.:classical*building:*
+
+---
 
 <div>
   
