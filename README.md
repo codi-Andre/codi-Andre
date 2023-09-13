@@ -30,9 +30,3 @@
 "We are what we do repeatedly. Excellence, therefore, is not an act but a habit." **Aristotle**. 🏛️
 
 ---
-
-<div>
-  
-[![André top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=codi-andre&theme=blue-white)](https://github.com/anuraghazra/github-readme-stats)
-  
- </div>
